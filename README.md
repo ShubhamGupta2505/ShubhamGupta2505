@@ -4,7 +4,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/ShubhamGupta2505/ShubhamGupta2505/master/linkedin.png (LinkedIn icon without padding)
+[2.2]: https://raw.githubusercontent.com/ShubhamGupta2505/ShubhamGupta2505/main/LinkedIn.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
