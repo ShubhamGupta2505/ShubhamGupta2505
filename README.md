@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi 👋 I'm Shubham Gupta , a Machine Learning enthusiast and DSA lover .
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/Shubham25253172
+[2]: https://www.linkedin.com/in/shubham-gupta-306336202/
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShubhamGupta2505&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!--
 **ShubhamGupta2505/ShubhamGupta2505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
