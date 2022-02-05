@@ -1,4 +1,4 @@
-<img src="https://github.com/ShubhamGupta2505/ShubhamGupta2505/blob/main/image1.jpeg" width="30px">
+<img src="https://github.com/ShubhamGupta2505/ShubhamGupta2505/blob/main/image1.jpg" width="30px">
 ### Hi 👋 I'm Shubham Gupta , a Machine Learning enthusiast and DSA lover .
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
