@@ -1,5 +1,6 @@
-<img src="https://github.com/ShubhamGupta2505/ShubhamGupta2505/blob/main/image1.jpg" width="1300px" height="400px">
 # Hi 👋 I'm Shubham Gupta , a Machine Learning enthusiast and DSA lover .
+<img src="https://github.com/ShubhamGupta2505/ShubhamGupta2505/blob/main/image1.jpg" width="1300px" height="400px">
+
 
 ''' You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]. '''
 
