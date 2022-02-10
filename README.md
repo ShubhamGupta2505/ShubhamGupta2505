@@ -18,7 +18,7 @@
   <div> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" /></div>
   
  ###  Connect me on :
-  Twitter[![Twitter][1.2]][1] LinkedIn[![LinkedIn][2.2]][2] HackerRank[![HackerRank][3.2]][3]. 
+  Twitter[![Twitter][1.2]][1] LinkedIn[![LinkedIn][2.2]][2]  [![HackerRank][3.2]][3]. 
 
 <!-- Icons -->
 
