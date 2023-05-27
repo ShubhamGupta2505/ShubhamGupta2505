@@ -2,7 +2,7 @@
 <img src="https://github.com/ShubhamGupta2505/ShubhamGupta2505/blob/main/image1.jpg" width="1300px" height="400px">
 
 
-[![GitHub Streak](https://activity-graph.herokuapp.com/graph?username=ShubhamGupta2505&theme=minimal)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://activity-graph.herokuapp.com/graph?username=ShubhamGupta2505&theme=minimal)](https://git.io/streak-stats) -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShubhamGupta2505&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=ShubhamGupta2505)](https://git.io/streak-stats)
 [![GitHub Streak](	https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamGupta2505&theme=vue)](https://git.io/streak-stats)
