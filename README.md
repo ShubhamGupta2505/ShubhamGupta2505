@@ -6,7 +6,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShubhamGupta2505&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=800)](https://git.io/streak-stats)
 [![GitHub Streak](	https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamGupta2505&theme=dark)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=ShubhamGupta2505&theme=dark)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamGupta2505)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamGupta2505&theme=dark)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-profile-trophy.vercel.app/?username=ShubhamGupta2505)](https://git.io/streak-stats)
 <!-- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShubhamGupta2505)](https://github.com/anuraghazra/github-readme-stats) -->
 ## My Tech Stack :
