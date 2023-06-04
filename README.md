@@ -1,4 +1,4 @@
-# Hi 👋 I'm Shubham Gupta , a Machin Learning enthusiast and DSA lover .
+# Hi 👋 I'm Shubham Gupta , a Machine Learning enthusiast and DSA lover .
 <img src="https://github.com/ShubhamGupta2505/ShubhamGupta2505/blob/main/image1.jpg" width="1300px" height="400px">
 
 
