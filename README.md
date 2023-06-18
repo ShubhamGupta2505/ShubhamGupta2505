@@ -34,7 +34,7 @@
 [2]: https://www.linkedin.com/in/shubham-gupta-306336202/
 [3]: https://www.hackerrank.com/shubham3nemo
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShubhamGupta2505&label=Profile%20views&color=0e75b6&style=flat" alt="ShubhamGupta2505" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShubhamGupta2505&show_icons=true&locale=en&layout=compact" alt="ShubhamGupta2505" /></p>
+
 <!--
 **ShubhamGupta2505/ShubhamGupta2505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
