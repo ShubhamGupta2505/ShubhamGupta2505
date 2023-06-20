@@ -20,19 +20,21 @@
   <div> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" /></div>
   
  ###  Connect me on :
-  Twitter[![Twitter][1.2]][1] LinkedIn[![LinkedIn][2.2]][2]  [![HackerRank][3.2]][3]. 
+  Twitter[![Twitter][1.2]][1] LinkedIn[![LinkedIn][2.2]][2]  [![HackerRank][3.2]][3] [![Kaggle][4.2]][4]. 
 
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: https://github.com/ShubhamGupta2505/ShubhamGupta2505/blob/main/LinkedIn.png (LinkedIn icon without padding)
 [3.2]: https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white (LinkedIn icon without padding)
+[4.2]: https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white
 
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/Shubham25253172
 [2]: https://www.linkedin.com/in/shubham-gupta-306336202/
 [3]: https://www.hackerrank.com/shubham3nemo
+[4]: https://www.kaggle.com/shubhamgupta012
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShubhamGupta2505&label=Profile%20views&color=0e75b6&style=flat" alt="ShubhamGupta2505" /> </p>
 
 <!--
